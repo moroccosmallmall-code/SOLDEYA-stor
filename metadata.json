@@ -1,0 +1,7 @@
+{
+  "name": "صولديا - SOLDEYA",
+  "description": "متجر صولديا الإلكتروني - هميزات حصرية، التوصيل بالمجان، والدفع عند الاستلام في جميع مدن المغرب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
